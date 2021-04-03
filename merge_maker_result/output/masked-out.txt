@@ -1,0 +1,36 @@
+==================================================
+JOB_ID=449399
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/449399.1.comp.q
+PWD=/grid/ware/data_norepl/kapeel/MaizeCode/Ti11/maker
+SUBMIT_TIME=Thu Nov 12 19:55:14 EST 2020
+==================================================
+MERGE IS COMPLETE
+==================================================
+END_TIME=Thu Nov 12 20:00:52 EST 2020
+==================================================
+==================================================
+JOB_ID=490907
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/490907.1.comp.q
+PWD=/grid/ware/data_norepl/bwang/RP125
+SUBMIT_TIME=Fri Nov 20 22:56:46 EST 2020
+==================================================
+==================================================
+JOB_ID=497220
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/497220.1.comp.q
+PWD=/grid/ware/data_norepl/bwang/RP125
+SUBMIT_TIME=Tue Nov 24 08:05:03 EST 2020
+==================================================
+==================================================
+JOB_ID=2322884
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/2322884.1.comp.q
+PWD=/grid/ware/data_norepl/bwang/RP125
+SUBMIT_TIME=Fri Mar 26 09:25:22 EDT 2021
+==================================================

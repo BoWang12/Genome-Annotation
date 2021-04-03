@@ -1,0 +1,6 @@
+cat: '*.maker.output/*_datastore/*/*/*/*.maker.model_gff%3AMikado_loci.proteins.fasta': No such file or directory
+JOB_STATUS=ERROR
+cat: '*.maker.output/*_datastore/*/*/*/*.maker.model_gff%3AMikado_loci.proteins.fasta': No such file or directory
+JOB_STATUS=ERROR
+cat: '*.maker.output/*_datastore/*/*/*/*.maker.model_gff%3AMikado_loci.proteins.fasta': No such file or directory
+JOB_STATUS=ERROR
