@@ -1,0 +1,17 @@
+==================================================
+JOB_ID=2321351
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/2321351.1.comp.q
+PWD=/grid/ware/data_norepl/bwang/RP125
+SUBMIT_TIME=Thu Mar 25 19:18:39 EDT 2021
+==================================================
+
+
+Start_time: 1616714330
+End_time:   1616717849
+Elapsed:    3519
+MAKER_RUN IS COMPLETE
+==================================================
+END_TIME=Thu Mar 25 20:17:38 EDT 2021
+==================================================

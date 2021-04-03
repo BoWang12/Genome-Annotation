@@ -1,0 +1,51 @@
+==================================================
+JOB_ID=427059
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/427059.1.comp.q
+PWD=/grid/ware/data_norepl/kapeel/MaizeCode/Ti11/maker
+SUBMIT_TIME=Thu Nov 12 11:17:20 EST 2020
+==================================================
+
+
+Start_time: 1605197845
+End_time:   1605207583
+Elapsed:    9738
+MAKER_RUN IS COMPLETE
+==================================================
+END_TIME=Thu Nov 12 13:59:44 EST 2020
+==================================================
+==================================================
+JOB_ID=489579
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/489579.1.comp.q
+PWD=/grid/ware/data_norepl/bwang/RP125
+SUBMIT_TIME=Fri Nov 20 08:25:23 EST 2020
+==================================================
+
+
+Start_time: 1605878729
+End_time:   1605893779
+Elapsed:    15050
+MAKER_RUN IS COMPLETE
+==================================================
+END_TIME=Fri Nov 20 12:36:21 EST 2020
+==================================================
+==================================================
+JOB_ID=495407
+QUEUE=comp.q
+SGE_TASK_ID=undefined
+TMPDIR=/tmp/495407.1.comp.q
+PWD=/grid/ware/data_norepl/bwang/RP125
+SUBMIT_TIME=Mon Nov 23 16:19:50 EST 2020
+==================================================
+
+
+Start_time: 1606166393
+End_time:   1606187052
+Elapsed:    20659
+MAKER_RUN IS COMPLETE
+==================================================
+END_TIME=Mon Nov 23 22:04:14 EST 2020
+==================================================
